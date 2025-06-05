@@ -46,3 +46,18 @@ New/Cleared Logs
 2025-06-05T12:30:00.006356091Z [notice] To update, run: pip install --upgrade pip
 2025-06-05T12:30:00.048739273Z ==> Build failed 😞
 2025-06-05T12:30:00.048761434Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
+2025-06-05T12:32:09.469862793Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:32:09.905224913Z ==> Checking out commit 3b261d9b6923e95832cb64e997086122f772b360 in branch main
+2025-06-05T12:32:11.591522737Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:32:11.618306744Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:32:14.837460869Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:32:14.891654105Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:32:14.901311908Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:32:15.297239901Z ERROR: Invalid requirement: 'Python 3.7+' (from line 1 of requirements.txt)
+2025-06-05T12:32:15.487357619Z 
+2025-06-05T12:32:15.4874048Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:32:15.48740932Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:32:15.541239548Z ==> Build failed 😞
+2025-06-05T12:32:15.541267569Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
