@@ -68,3 +68,54 @@ New/Cleared Logs
 2025-06-05T12:38:21.458242258Z ==> Build failed 😞
 2025-06-05T12:38:21.458265838Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
 New/Cleared Logs
+2025-06-05T12:40:56.369132977Z Downloading beautifulsoup4-4.13.4-py3-none-any.whl (187 kB)
+2025-06-05T12:40:56.384366878Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 187.3/187.3 kB 13.8 MB/s eta 0:00:00
+2025-06-05T12:40:56.396662446Z Downloading blinker-1.9.0-py3-none-any.whl (8.5 kB)
+2025-06-05T12:40:56.412787859Z Downloading certifi-2025.4.26-py3-none-any.whl (159 kB)
+2025-06-05T12:40:56.420718557Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 159.6/159.6 kB 25.9 MB/s eta 0:00:00
+2025-06-05T12:40:56.432714387Z Downloading charset_normalizer-3.4.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (147 kB)
+2025-06-05T12:40:56.440442151Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 147.3/147.3 kB 24.4 MB/s eta 0:00:00
+2025-06-05T12:40:56.45240785Z Downloading click-8.2.1-py3-none-any.whl (102 kB)
+2025-06-05T12:40:56.460104902Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 102.2/102.2 kB 16.5 MB/s eta 0:00:00
+2025-06-05T12:40:56.47281819Z Downloading idna-3.10-py3-none-any.whl (70 kB)
+2025-06-05T12:40:56.480345448Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 70.4/70.4 kB 11.9 MB/s eta 0:00:00
+2025-06-05T12:40:56.493036535Z Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+2025-06-05T12:40:56.511400815Z Downloading jinja2-3.1.6-py3-none-any.whl (134 kB)
+2025-06-05T12:40:56.520298127Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 134.9/134.9 kB 20.6 MB/s eta 0:00:00
+2025-06-05T12:40:56.533181269Z Downloading MarkupSafe-3.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (23 kB)
+2025-06-05T12:40:56.550726988Z Downloading soupsieve-2.7-py3-none-any.whl (36 kB)
+2025-06-05T12:40:56.568028861Z Downloading typing_extensions-4.14.0-py3-none-any.whl (43 kB)
+2025-06-05T12:40:56.575900497Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 43.8/43.8 kB 6.2 MB/s eta 0:00:00
+2025-06-05T12:40:56.588465121Z Downloading urllib3-2.4.0-py3-none-any.whl (128 kB)
+2025-06-05T12:40:56.596386579Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 128.7/128.7 kB 21.6 MB/s eta 0:00:00
+2025-06-05T12:40:56.609133758Z Downloading werkzeug-3.1.3-py3-none-any.whl (224 kB)
+2025-06-05T12:40:56.617902797Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 224.5/224.5 kB 33.1 MB/s eta 0:00:00
+2025-06-05T12:40:56.724817181Z Installing collected packages: urllib3, typing-extensions, soupsieve, markupsafe, itsdangerous, idna, click, charset-normalizer, certifi, blinker, werkzeug, requests, jinja2, beautifulsoup4, flask
+2025-06-05T12:40:57.577188163Z Successfully installed beautifulsoup4-4.13.4 blinker-1.9.0 certifi-2025.4.26 charset-normalizer-3.4.2 click-8.2.1 flask-3.1.1 idna-3.10 itsdangerous-2.2.0 jinja2-3.1.6 markupsafe-3.0.2 requests-2.32.3 soupsieve-2.7 typing-extensions-4.14.0 urllib3-2.4.0 werkzeug-3.1.3
+2025-06-05T12:40:57.789230345Z 
+2025-06-05T12:40:57.789254035Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:40:57.789257675Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:41:08.950584228Z ==> Uploading build...
+2025-06-05T12:41:13.798295648Z ==> Uploaded in 3.7s. Compression took 1.2s
+2025-06-05T12:41:13.814300658Z ==> Build successful 🎉
+2025-06-05T12:41:16.209398286Z ==> Deploying...
+2025-06-05T12:41:31.524343329Z ==> Running 'python browse.py'
+2025-06-05T12:41:35.236394217Z  * Serving Flask app 'browse'
+2025-06-05T12:41:35.236417658Z  * Debug mode: on
+2025-06-05T12:41:35.536913113Z WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2025-06-05T12:41:35.536934394Z  * Running on http://127.0.0.1:5000
+2025-06-05T12:41:35.536967795Z Press CTRL+C to quit
+2025-06-05T12:41:35.619758378Z  * Restarting with stat
+2025-06-05T12:41:38.021807521Z  * Debugger is active!
+2025-06-05T12:41:38.024597935Z  * Debugger PIN: ***-***-***
+2025-06-05T12:41:38.120579539Z 127.0.0.1 - - [05/Jun/2025 12:41:38] "HEAD / HTTP/1.1" 200 -
+2025-06-05T12:42:23.699181253Z ==> No open ports detected on 0.0.0.0, continuing to scan...
+2025-06-05T12:42:23.821490651Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-06-05T12:43:24.643771106Z ==> No open ports detected on 0.0.0.0, continuing to scan...
+2025-06-05T12:43:24.801108424Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-06-05T12:44:25.51212392Z ==> No open ports detected on 0.0.0.0, continuing to scan...
+2025-06-05T12:44:25.605515168Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-06-05T12:45:26.899818516Z ==> No open ports detected on 0.0.0.0, continuing to scan...
+2025-06-05T12:45:27.026310096Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-06-05T12:45:38.538721464Z Deploy cancelled
+New/Cleared Logs
