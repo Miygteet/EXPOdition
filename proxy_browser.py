@@ -1,3 +1,7 @@
+PROXY = {
+    'http': 'http://0.0.0.0:8080',
+    'https': 'https://0.0.0.0:8080'
+}
 from flask import Flask, request, render_template_string, redirect
 import requests
 from urllib.parse import urlparse, urljoin
