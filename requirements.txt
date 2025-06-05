@@ -1,7 +1,6 @@
-Python 3.7+
-Flask
-Requests
-BeautifulSoup4
+flask
+requests
+beautifulsoup4
 
 _____________________^REQUIREMENTS^__________________________
 Needed For Render To Run Build Process
