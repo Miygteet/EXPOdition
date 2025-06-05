@@ -1,4 +1,7 @@
-Python 3.7+, Flask, Requests, BeautifulSoup4
+Python 3.7+
+Flask
+Requests
+BeautifulSoup4
 
 _____________________^REQUIREMENTS^__________________________
 Needed For Render To Run Build Process
@@ -30,3 +33,17 @@ New/Cleared Logs
 2025-06-05T12:26:07.374851938Z [notice] To update, run: pip install --upgrade pip
 2025-06-05T12:26:07.428877808Z ==> Build failed 😞
 2025-06-05T12:26:07.428892028Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
+2025-06-05T12:29:53.156472811Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:29:53.609026342Z ==> Checking out commit 225c0691f95ed53a71da23ad845dba6c77fb3f17 in branch main
+2025-06-05T12:29:55.259795165Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:29:55.286629948Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:29:59.301217665Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:29:59.348410268Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:29:59.35830952Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:29:59.820561127Z ERROR: Invalid requirement: 'Python 3.7+, Flask, Requests, BeautifulSoup4' (from line 1 of requirements.txt)
+2025-06-05T12:30:00.006325761Z 
+2025-06-05T12:30:00.006351731Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:30:00.006356091Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:30:00.048739273Z ==> Build failed 😞
+2025-06-05T12:30:00.048761434Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
