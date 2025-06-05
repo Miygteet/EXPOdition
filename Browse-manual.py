@@ -6,9 +6,9 @@ def browse():
         target_url = 'http://' + target_url
 
     # --- Configure your proxy here ---
-    proxy_host = 'http://your-proxy-server:port'  # e.g., http://123.123.123.123:8080
-    proxy_user = 'your_username'
-    proxy_pass = 'your_password'
+    proxy_host = 'http://0.0.0.0:8080'  # e.g., http://123.123.123.123:8080
+    proxy_user = ''
+    proxy_pass = ''
 
     proxies = {
         'http': proxy_host,
