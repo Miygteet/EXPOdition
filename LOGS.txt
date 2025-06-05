@@ -1,0 +1,70 @@
+2025-06-05T12:08:49.241240485Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:08:49.636447785Z ==> Checking out commit a0531e429c605de276c2ad17a1784dccad87d724 in branch main
+2025-06-05T12:08:55.900878329Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:08:55.926792626Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:08:59.353067435Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:08:59.40228102Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:08:59.413016422Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:08:59.821498371Z ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+2025-06-05T12:09:00.011213297Z 
+2025-06-05T12:09:00.011240678Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:09:00.011245218Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:09:00.067259101Z ==> Build failed 😞
+2025-06-05T12:09:00.067279271Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
+2025-06-05T12:26:01.507611068Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:26:01.973516109Z ==> Checking out commit 64ae0a9f7a07458e918631a1f4bae85d55fa0c0a in branch main
+2025-06-05T12:26:03.61514172Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:26:03.640802679Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:26:06.735911927Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:26:06.78176619Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:26:06.792069687Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:26:07.18670283Z ERROR: Invalid requirement: '______________________REQUIREMENTS__________________________' (from line 1 of requirements.txt)
+2025-06-05T12:26:07.374799315Z 
+2025-06-05T12:26:07.374843248Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:26:07.374851938Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:26:07.428877808Z ==> Build failed 😞
+2025-06-05T12:26:07.428892028Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
+2025-06-05T12:29:53.156472811Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:29:53.609026342Z ==> Checking out commit 225c0691f95ed53a71da23ad845dba6c77fb3f17 in branch main
+2025-06-05T12:29:55.259795165Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:29:55.286629948Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:29:59.301217665Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:29:59.348410268Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:29:59.35830952Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:29:59.820561127Z ERROR: Invalid requirement: 'Python 3.7+, Flask, Requests, BeautifulSoup4' (from line 1 of requirements.txt)
+2025-06-05T12:30:00.006325761Z 
+2025-06-05T12:30:00.006351731Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:30:00.006356091Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:30:00.048739273Z ==> Build failed 😞
+2025-06-05T12:30:00.048761434Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
+2025-06-05T12:32:09.469862793Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:32:09.905224913Z ==> Checking out commit 3b261d9b6923e95832cb64e997086122f772b360 in branch main
+2025-06-05T12:32:11.591522737Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:32:11.618306744Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:32:14.837460869Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:32:14.891654105Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:32:14.901311908Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:32:15.297239901Z ERROR: Invalid requirement: 'Python 3.7+' (from line 1 of requirements.txt)
+2025-06-05T12:32:15.487357619Z 
+2025-06-05T12:32:15.4874048Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:32:15.48740932Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:32:15.541239548Z ==> Build failed 😞
+2025-06-05T12:32:15.541267569Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
+2025-06-05T12:38:11.435241077Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:38:11.893123974Z ==> Checking out commit 3d8a60ef2a6211448d407c0658aef8dbe31e8da6 in branch main
+2025-06-05T12:38:16.896484371Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:38:16.922709506Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:38:20.592442892Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:38:20.640248617Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:38:20.6507816Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:38:21.215774176Z ERROR: Invalid requirement: '_____________________^REQUIREMENTS^__________________________' (from line 5 of requirements.txt)
+2025-06-05T12:38:21.393465478Z 
+2025-06-05T12:38:21.393492219Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:38:21.393497599Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:38:21.458242258Z ==> Build failed 😞
+2025-06-05T12:38:21.458265838Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+New/Cleared Logs
