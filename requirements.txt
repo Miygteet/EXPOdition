@@ -1,4 +1,9 @@
-No Requirements Are Needed
+______________________REQUIREMENTS__________________________
+- Python 3.7+
+- Flask
+- Requests
+- BeautifulSoup4
+
 Needed For Render To Run Build Process
 __________________________Logs__________________________
 2025-06-05T12:08:49.241240485Z ==> Cloning from https://github.com/Miygteet/EXPOdition
