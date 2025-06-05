@@ -1,2 +1,16 @@
 No Requirements Are Needed
 Needed For Render To Run Build Process
+__________________________Logs__________________________
+2025-06-05T12:08:49.241240485Z ==> Cloning from https://github.com/Miygteet/EXPOdition
+2025-06-05T12:08:49.636447785Z ==> Checking out commit a0531e429c605de276c2ad17a1784dccad87d724 in branch main
+2025-06-05T12:08:55.900878329Z ==> Using Python version 3.11.11 (default)
+2025-06-05T12:08:55.926792626Z ==> Docs on specifying a Python version: https://render.com/docs/python-version
+2025-06-05T12:08:59.353067435Z ==> Using Poetry version 1.7.1 (default)
+2025-06-05T12:08:59.40228102Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-06-05T12:08:59.413016422Z ==> Running build command 'pip install -r requirements.txt'...
+2025-06-05T12:08:59.821498371Z ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+2025-06-05T12:09:00.011213297Z 
+2025-06-05T12:09:00.011240678Z [notice] A new release of pip is available: 24.0 -> 25.1.1
+2025-06-05T12:09:00.011245218Z [notice] To update, run: pip install --upgrade pip
+2025-06-05T12:09:00.067259101Z ==> Build failed 😞
+2025-06-05T12:09:00.067279271Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
